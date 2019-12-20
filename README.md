@@ -26,7 +26,7 @@ python test_MST.py --content_dir='data/content' --style_dir='data/style'
 The test data (29 content images, 61 style images) are available at [GoogleDrive](https://drive.google.com/file/d/1lD6wi-Uaw5tymYBtjwe5tmhxGrJathLs/view?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/1sF7pGD19umLaogAWIF8R_w).
 The visual results (29x61 stylized images) are available at [GoogleDrive](https://drive.google.com/file/d/1nl9KuB9q_hcfzSKY1PBxSfpKQmNEhI9p/view?usp=sharing) and [BaiduYun](https://pan.baidu.com/s/14cJgqLpaw_A8bhSmlAGW7w). The results are produced by using the model and parameters (e.g., alpha=1.0, K=3) of the paper. 
 
-![Visual](/data/visual_v4.pdf)
+![Visual](/data/visual_v4.png)
 
 ## Citation
 If you find the code/results helpful in your resarch or work, please cite the following papers.
